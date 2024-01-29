@@ -17,7 +17,7 @@
                           <TH>ROLL NUMBER</TH>
 </TR>
 </TABLE>
-<OL>
+<OL TYPE="AA">
            <B> <LI>C</LI>
              <LI>C++</LI>
              <LI>C#</LI>
@@ -25,7 +25,7 @@
              <LI>RUBY</LI>
              <LI>JAVA</LI></B>
 </OL>
-<UL>
+<UL TYPE="RECTANGLE">
           <B> <LI>C</LI>
              <LI>C++</LI>
              <LI>C#</LI>
