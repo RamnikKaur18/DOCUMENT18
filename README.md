@@ -12,9 +12,9 @@
 <MARQUEE>EVERYTHING BECOMES EASY WHEN YOU ARE DETERMINED TO DO IT.</MARQUEE>
 <TABLE>
             <TR>
-                        <TD>NAME</TD>
-                          <TD>CLASS</TD>
-                          <TD>ROLL NUMBER</TD>
+                        <TH>NAME</TH>
+                          <TH>CLASS</TH>
+                          <TH>ROLL NUMBER</TH>
 </TR>
 </TABLE>
 </TABLE>
