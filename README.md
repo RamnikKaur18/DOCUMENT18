@@ -9,7 +9,7 @@
                                                                                    AND HENCE  
                                                                                             THE WAY YOU WRITE THE WAY YOU GET
 </PRE>
-<MARQUEE EVERYTHING BECOMES EASY WHEN YOU ARE DETERMINED TO DO IT.></MARQUEE>
+<MARQUEE>EVERYTHING BECOMES EASY WHEN YOU ARE DETERMINED TO DO IT.</MARQUEE>
 <TABLE BORDER=8>
             <TR>
                         <TH>NAME</TH>
