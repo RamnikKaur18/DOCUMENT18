@@ -9,3 +9,12 @@
                                                                                    AND HENCE  
                                                                                             THE WAY YOU WRITE THE WAY YOU GET
 </PRE>
+<MARQUEE>EVERYTHING BECOMES EASY WHEN YOU ARE DETERMINED TO DO IT.</MARQUEE>
+<TABLE>
+            <TR><TH>
+                        <TD>NAME</TD>
+                          <TD>CLASS</TD>
+                          <TD>ROLL NUMBER</TD>
+</TH></TR>
+</TABLE>
+</TABLE>
