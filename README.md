@@ -17,4 +17,19 @@
                           <TH>ROLL NUMBER</TH>
 </TR>
 </TABLE>
-</TABLE>
+<OL>
+           <B> <LI>C</LI>
+             <LI>C++</LI>
+             <LI>C#</LI>
+             <LI>PYTHON</LI>
+             <LI>RUBY</LI>
+             <LI>JAVA</LI></B>
+</OL>
+<UL>
+          <B> <LI>C</LI>
+             <LI>C++</LI>
+             <LI>C#</LI>
+             <LI>PYTHON</LI>
+             <LI>RUBY</LI>
+             <LI>JAVA</LI> </B>
+</UL>
